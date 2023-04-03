@@ -17,9 +17,8 @@ Additions and changes to the rules take effect from the moment of their publicat
   * Forum - a place for discussions.
 
 ## 2. REGISTRATION
-  1. Using usernames (login, name) containing profanity, website addresses, email, etc. is prohibited.
-  2. Using temporary email addresses for registration is prohibited.
-  3. Registering more than one account is prohibited.
+  1. Using temporary email addresses for registration is prohibited.
+  2. Registering more than one account is prohibited.
 
 ## 3. PROHIBITED
   1. Posting messages that violate Russian laws.
