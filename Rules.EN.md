@@ -44,7 +44,7 @@ Additions and changes to the rules take effect from the moment of their publicat
   21. Using prohibited nicknames.
   22. Discussing moderator or administrator actions.
   23. Creating topics, messages, or avatars on political or religious topics.
-  24. Discriminating against groups of people based on their age, race, gender, religion, or nationality.
+  24. Discriminating against groups of people based on their age, race, gender, religion, or nationality and etc.
 
 ## 4. RECOMMENDATIONS
   1. Do not clutter the forum with uninformative content, create topics with your own questions.
